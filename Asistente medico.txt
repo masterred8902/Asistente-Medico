@@ -1,0 +1,8 @@
+Asistente medico
+Gracias a los avances tecnológicos podemos decir que en esta sociedad podemos crear un robot que de apoyo a las personas que tengan problemas de salud.
+estos problemas pueden ser:
+-problemas respiratorios
+-problemas cardiacos
+entre otros.
+
+En este GitHub nos encargaremos de subir avances de este proyecto para poderlo mejorar.
